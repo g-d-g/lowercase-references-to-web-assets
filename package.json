@@ -1,0 +1,28 @@
+{
+  "name": "lowercase-references-to-web-assets",
+  "version": "0.0.1",
+  "description": "lower cases any references to assets in a web page.",
+  "main": "script.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/nelsonic/image-names-to-lowercase.git"
+  },
+  "keywords": [
+    "rename",
+    "files",
+    "lower-case"
+  ],
+  "author": "@tmaslen",
+  "license": "",
+  "bugs": {
+    "url": "https://github.com/tmaslen/image-names-to-lowercase/issues"
+  },
+  "homepage": "https://github.com/tmaslen/image-names-to-lowercase",
+  "dependencies": {
+    "nodeunit": "0.8.6",
+    "cheerio":  "latest"
+  }
+}
